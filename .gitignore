@@ -1,0 +1,9 @@
+
+main
+
+user-files/
+/data
+
+*.log
+.vscode/
+.DS_Store
